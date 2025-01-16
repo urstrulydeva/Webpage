@@ -1,2 +1,2 @@
 # Webpage
-To learn HTML, CSS and JS
+To practice HTML, CSS and JS and to implement a full fledged webpage
